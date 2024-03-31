@@ -19,7 +19,7 @@ To get started with the project, follow the steps below:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Edgar-Carpinteyro/react-class-average-app.git
+git clone https://github.com/Edgar-Carpinteyro/class-grade-average-app.git
 cd your-project
 ```
 
